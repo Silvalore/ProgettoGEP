@@ -21,7 +21,7 @@ Giocatori under e senior, con la possibilità di appartenere o meno a una squadr
 CourtMapping,Revocruit,Basketball Finders,RecruitMe Sports
 
 # Tagline
-
+Organizza, gioca, connettiti
 # Tecnologie
 
 # Timestamp JWT
