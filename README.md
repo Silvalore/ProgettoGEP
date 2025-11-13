@@ -41,6 +41,17 @@ Organizza, gioca, connettiti
 # Tabella di benchmarking
 <img width="1722" height="540" alt="tabella benchmarking" src="https://github.com/user-attachments/assets/9b6be73a-facd-4131-8f1e-c0bb4e564fe1" />
 
+# Requisiti
+
+Funzionali
+- Registrazione e login utente - Creazione di tornei di basket - Iscrizione ai tornei - Gestione profilo personale (dati giocatore) - Chat tra utenti - Visualizzazione tornei e partecipanti
+Non funzionali
+- Interfaccia semplice e intuitiva - Sicurezza dei dati - Tempi di risposta rapidi - Compatibilità con vari dispositivi - Database affidabile - Possibilità di aggiungere nuove funzioni
+Di dominio
+- Numero minimo/massimo di squadre per torneo - Regole base del basket - Ogni utente può appartenere a una sola squadra per torneo - Calendario o tabellone partite - Dati giocatore (ruolo, numero, altezza, ecc.)
+
+
+
 # Timestamp JWT
 1758872939
 
