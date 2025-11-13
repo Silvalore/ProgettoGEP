@@ -37,7 +37,10 @@ Organizza, gioca, connettiti
 - Storage: Cloudinary (immagini e certificazioni).
 
 - Hosting: Render / Firebase Hosting.
-  
+
+# Tabella di benchmarking
+<img width="1722" height="540" alt="tabella benchmarking" src="https://github.com/user-attachments/assets/9b6be73a-facd-4131-8f1e-c0bb4e564fe1" />
+
 # Timestamp JWT
 1758872939
 
