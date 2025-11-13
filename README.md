@@ -50,7 +50,10 @@ Non funzionali
 Di dominio
 - Numero minimo/massimo di squadre per torneo - Regole base del basket - Ogni utente può appartenere a una sola squadra per torneo - Calendario o tabellone partite - Dati giocatore (ruolo, numero, altezza, ecc.)
 
+# Diagramma UML Use Case 
 
+http://yuml.me/cisti/GEP1.svg
+<img width="1308" height="889" alt="UML use case " src="https://github.com/user-attachments/assets/7fb4ddbe-fc4d-4221-bff4-754a8818e9f8" />
 
 # Timestamp JWT
 1758872939
