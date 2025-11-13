@@ -22,8 +22,22 @@ CourtMapping,Revocruit,Basketball Finders,RecruitMe Sports
 
 # Tagline
 Organizza, gioca, connettiti
-# Tecnologie
 
+# Tecnologie
+- Frontend: Flutter (sviluppo mobile multipiattaforma, Android/iOS).
+
+- Backend: Node.js + Express (gestione utenti, tornei e messaggi).
+
+- Database: PostgreSQL (archiviazione dati).
+
+- Autenticazione: Firebase Authentication (login sicuro).
+
+- Chat e notifiche: Socket.IO (comunicazione in tempo reale).
+
+- Storage: Cloudinary (immagini e certificazioni).
+
+- Hosting: Render / Firebase Hosting.
+  
 # Timestamp JWT
 1758872939
 
