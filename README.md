@@ -61,8 +61,8 @@ http://yuml.me/cisti/GEP1.svg
 # Lovable web page
 https://hooplink-connect.lovable.app
 
-# Slide progetto
-Slide 1 – Introduzione
+
+# Slide 1 – Introduzione
 
 HoopLink – Organizza, gioca, connettiti
 
@@ -74,7 +74,7 @@ App per eventi e reclutamento nel basket
 
 Obiettivo: creare una community sportiva digitale
 
-Slide 2 – Il problema
+# Slide 2 – Il problema
 
 Nel basket amatoriale e locale l’organizzazione è spesso poco efficiente e frammentata.
 
@@ -86,7 +86,7 @@ Scarsa visibilità per gli atleti
 
 Difficoltà per squadre e organizzatori nel reclutamento
 
-Slide 3 – La soluzione
+# Slide 3 – La soluzione
 
 HoopLink riunisce in un’unica app tutti gli strumenti necessari per organizzare e partecipare agli eventi.
 
@@ -98,7 +98,7 @@ Profili sportivi dettagliati
 
 Chat e comunicazione in tempo reale
 
-Slide 4 – Mercato
+# Slide 4 – Mercato
 
 Il basket è uno degli sport più diffusi e il numero di eventi amatoriali è in continua crescita.
 
@@ -110,7 +110,7 @@ Target iniziale: giocatori e organizzatori locali
 
 Possibilità di espansione nazionale
 
-Slide 5 – Modello di business
+# Slide 5 – Modello di business
 
 Il progetto segue un modello freemium, per favorire la crescita degli utenti.
 
@@ -130,7 +130,7 @@ Promozione eventi
 
 Strumenti per società e organizzatori
 
-Slide 6 – Tecnologia
+# Slide 6 – Tecnologia
 
 L’app è progettata con tecnologie moderne, sicure e scalabili.
 
@@ -146,7 +146,7 @@ Socket.IO → chat e notifiche in tempo reale
 
 Cloudinary → immagini e certificazioni
 
-Slide 7 – Competizione
+# Slide 7 – Competizione
 
 Esistono piattaforme simili, ma spesso non specifiche o con funzionalità limitate.
 
@@ -160,7 +160,7 @@ Basketball Finders
 
 Differenza: HoopLink unisce eventi, profili e comunicazione in un’unica piattaforma dedicata solo al basket.
 
-Slide 8 – Perché HoopLink
+# Slide 8 – Perché HoopLink
 
 Il valore principale è la semplicità e la specializzazione.
 
@@ -172,7 +172,7 @@ Organizzazione eventi rapida
 
 Connessione diretta tra giocatori, squadre e società
 
-Slide 9 – Acquisizione utenti
+# Slide 9 – Acquisizione utenti
 
 La crescita iniziale sarà focalizzata sulla community locale.
 
@@ -184,7 +184,7 @@ Community e gruppi sportivi
 
 Passaparola tra giocatori
 
-Slide 10 – Investimento e obiettivi
+# Slide 10 – Investimento e obiettivi
 
 Per completare il progetto è previsto un investimento iniziale di 50.000€.
 
