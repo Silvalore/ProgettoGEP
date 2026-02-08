@@ -58,6 +58,7 @@ http://yuml.me/cisti/GEP1.svg
 # Timestamp JWT
 1758872939
 
+# Lovable web page
 https://hooplink-connect.lovable.app
 
 # HoopLink WBS
