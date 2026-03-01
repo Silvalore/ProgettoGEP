@@ -277,7 +277,7 @@ graph TD
     J --> J2["Aggiornamenti funzionalità"]
     J --> J3["Supporto utenti"]
 ```
-#HoopLink Gantt
+# HoopLink Gantt
 
 ```mermaid
 gantt
