@@ -277,3 +277,36 @@ graph TD
     J --> J2["Aggiornamenti funzionalità"]
     J --> J3["Supporto utenti"]
 ```
+#HoopLink Gantt
+
+```mermaid
+gantt
+    title HoopLink - Piano di Sviluppo (6 Mesi)
+    dateFormat  YYYY-MM-DD
+    axisFormat  %b
+
+    section Analisi e Progettazione
+    Analisi requisiti           :a1, 2025-01-01, 2w
+    Definizione MVP             :a2, after a1, 2w
+
+    section Design UI/UX
+    Wireframe e prototipi       :b1, after a2, 3w
+    Test usabilità              :b2, after b1, 1w
+
+    section Sviluppo Backend
+    Struttura database          :c1, after a2, 3w
+    API e autenticazione        :c2, after c1, 4w
+    Chat e notifiche real-time  :c3, after c2, 3w
+
+    section Sviluppo Frontend
+    Interfaccia base            :d1, after b1, 4w
+    Integrazione API            :d2, after c2, 4w
+
+    section Testing
+    Test funzionali             :e1, after d2, 2w
+    Bug fixing                  :e2, after e1, 2w
+
+    section Deploy e Lancio
+    Deploy su server            :f1, after e2, 1w
+    Pubblicazione app           :f2, after f1, 1w
+```
