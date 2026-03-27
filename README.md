@@ -1,10 +1,3 @@
-# ProgettoGEP
-# Cognome
-Silva
-
-# Nome
-Lorenzo
-
 # Titolo 
 HoopLink
 
