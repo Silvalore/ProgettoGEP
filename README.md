@@ -60,6 +60,12 @@ http://yuml.me/cisti/GEP1.svg
 
 # Lovable web page
 https://hooplink-connect.lovable.app
+<img width="1316" height="927" alt="image" src="https://github.com/user-attachments/assets/a8e0c34a-abc8-4354-96b6-a069139ebc31" />
+<img width="962" height="766" alt="image" src="https://github.com/user-attachments/assets/020992b5-01bc-44da-9c65-81cc6dd516a6" />
+<img width="1229" height="882" alt="image" src="https://github.com/user-attachments/assets/a380aef2-1dd7-488c-9597-2088cf4391c0" />
+
+
+
 
 
 # Slide 1 – Introduzione
