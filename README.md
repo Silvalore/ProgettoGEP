@@ -1,5 +1,5 @@
-# Titolo 
-HoopLink
+# HoopLink
+Autore: Silva Lorenzo
 
 # Descrizione
 Un'applicazione che permette agli utenti di creare o iscriversi a eventi sportivi di basket. Gli utenti possono registrarsi inserendo tutte le informazioni personali, comprese le certificazioni della società sportiva di appartenenza. In questo modo, altri utenti  possono visionare i profili e reclutarli per partecipare agli eventi.
@@ -55,6 +55,8 @@ Organizza, gioca, connettiti
 
 Funzionali
 - Registrazione e login utente - Creazione di tornei di basket - Iscrizione ai tornei - Gestione profilo personale (dati giocatore) - Chat tra utenti - Visualizzazione tornei e partecipanti
+
+User story
   
 | Attore        | Requisito / Azione                       | Beneficio                                                  |
 | ------------- | ---------------------------------------- | ---------------------------------------------------------- |
@@ -92,145 +94,6 @@ https://hooplink-connect.lovable.app
 <img width="1229" height="882" alt="image" src="https://github.com/user-attachments/assets/a380aef2-1dd7-488c-9597-2088cf4391c0" />
 
 
-
-
-
-# Slide 1 – Introduzione
-
-HoopLink – Organizza, gioca, connettiti
-
-HoopLink è una piattaforma mobile pensata per semplificare l’organizzazione di eventi di basket e mettere in contatto giocatori, squadre e organizzatori.
-
-Progetto GEP – Lorenzo Silva
-
-App per eventi e reclutamento nel basket
-
-Obiettivo: creare una community sportiva digitale
-
-# Slide 2 – Il problema
-
-Nel basket amatoriale e locale l’organizzazione è spesso poco efficiente e frammentata.
-
-Eventi gestiti tramite chat o social
-
-Difficoltà nel trovare giocatori disponibili
-
-Scarsa visibilità per gli atleti
-
-Difficoltà per squadre e organizzatori nel reclutamento
-
-# Slide 3 – La soluzione
-
-HoopLink riunisce in un’unica app tutti gli strumenti necessari per organizzare e partecipare agli eventi.
-
-Creazione e gestione di partite e tornei
-
-Iscrizione rapida come giocatore o squadra
-
-Profili sportivi dettagliati
-
-Chat e comunicazione in tempo reale
-
-# Slide 4 – Mercato
-
-Il basket è uno degli sport più diffusi e il numero di eventi amatoriali è in continua crescita.
-
-Migliaia di tornei e partite ogni anno
-
-Crescita del settore sport-tech e delle app di community
-
-Target iniziale: giocatori e organizzatori locali
-
-Possibilità di espansione nazionale
-
-# Slide 5 – Modello di business
-
-Il progetto segue un modello freemium, per favorire la crescita degli utenti.
-
-Versione gratuita:
-
-Profilo giocatore
-
-Partecipazione agli eventi
-
-Chat
-
-Versione Premium:
-
-Maggiore visibilità del profilo
-
-Promozione eventi
-
-Strumenti per società e organizzatori
-
-# Slide 6 – Tecnologia
-
-L’app è progettata con tecnologie moderne, sicure e scalabili.
-
-Flutter → app Android e iOS
-
-Node.js + Express → backend
-
-PostgreSQL → gestione dati
-
-Firebase Authentication → sicurezza
-
-Socket.IO → chat e notifiche in tempo reale
-
-Cloudinary → immagini e certificazioni
-
-# Slide 7 – Competizione
-
-Esistono piattaforme simili, ma spesso non specifiche o con funzionalità limitate.
-
-Principali competitor:
-
-CourtMapping
-
-RecruitMe Sports
-
-Basketball Finders
-
-Differenza: HoopLink unisce eventi, profili e comunicazione in un’unica piattaforma dedicata solo al basket.
-
-# Slide 8 – Perché HoopLink
-
-Il valore principale è la semplicità e la specializzazione.
-
-Focus esclusivo sul basket
-
-Profili completi e verificabili
-
-Organizzazione eventi rapida
-
-Connessione diretta tra giocatori, squadre e società
-
-# Slide 9 – Acquisizione utenti
-
-La crescita iniziale sarà focalizzata sulla community locale.
-
-Social media (Instagram, TikTok)
-
-Collaborazioni con palestre e tornei
-
-Community e gruppi sportivi
-
-Passaparola tra giocatori
-
-# Slide 10 – Investimento e obiettivi
-
-Per completare il progetto è previsto un investimento iniziale di 50.000€.
-
-L’investimento servirà per:
-
-Sviluppo e completamento dell’MVP
-
-Pubblicazione e infrastruttura cloud
-
-Attività di lancio e promozione
-
-Obiettivo: validare il prodotto e iniziare la crescita degli utenti.
-
 # Elevator pitch
 
 Ciao, sono Lorenzo Silva, fondatore di HoopLink.
@@ -246,6 +109,19 @@ Oggi cerchiamo un investimento iniziale di 50.000€ per completare lo sviluppo 
 
 Il nostro obiettivo è diventare il punto di riferimento digitale per la community del basket.
 Siete pronti a connettere con noi il futuro del basket?
+
+
+<img width="800" height="449" alt="image" src="https://github.com/user-attachments/assets/92c994d1-af1c-425b-80f7-ad56a72dcd0b" />
+<img width="802" height="446" alt="image" src="https://github.com/user-attachments/assets/09609373-4218-4602-85c8-22532a5fb7ea" />
+<img width="799" height="450" alt="image" src="https://github.com/user-attachments/assets/603bbcff-b9f6-4729-b4b2-33e82cc3ae17" />
+<img width="803" height="451" alt="image" src="https://github.com/user-attachments/assets/c7f3295a-03f3-4ea2-804e-900cf8d1559f" />
+<img width="799" height="454" alt="image" src="https://github.com/user-attachments/assets/904763c2-1f0e-4d00-ba20-862f08d6e9f6" />
+<img width="800" height="451" alt="image" src="https://github.com/user-attachments/assets/e21590fb-3ef7-4373-a584-b2600bdadfaa" />
+<img width="797" height="451" alt="image" src="https://github.com/user-attachments/assets/7eb2fa87-6f5e-4360-a640-9bb8337fcfbc" />
+<img width="805" height="447" alt="image" src="https://github.com/user-attachments/assets/1117eed1-dd1a-4436-9b92-ab66a06f3d79" />
+<img width="803" height="450" alt="image" src="https://github.com/user-attachments/assets/669ab35e-4e00-4ce3-8e86-f13d31c73fc0" />
+<img width="799" height="456" alt="image" src="https://github.com/user-attachments/assets/10b7ca6c-d383-4256-a681-e47803aeabf9" />
+
 
 # HoopLink WBS
 ```mermaid
@@ -310,36 +186,38 @@ graph TD
     J --> J2["Aggiornamenti funzionalità"]
     J --> J3["Supporto utenti"]
 ```
-# HoopLink Gantt
+# HoopLink Cronoprogramma
 
 ```mermaid
 gantt
-    title HoopLink - Piano di Sviluppo (6 Mesi)
+    title HoopLink - Cronoprogramma Sviluppo MVP (6 mesi)
     dateFormat  YYYY-MM-DD
     axisFormat  %b
 
-    section Analisi e Progettazione
-    Analisi requisiti           :a1, 2025-01-01, 2w
+    section Analisi e Pianificazione
+    Analisi requisiti           :a1, 2026-01-01, 2w
     Definizione MVP             :a2, after a1, 2w
 
     section Design UI/UX
-    Wireframe e prototipi       :b1, after a2, 3w
-    Test usabilità              :b2, after b1, 1w
+    Wireframe                   :b1, after a2, 2w
+    Prototipi e mockup          :b2, after b1, 2w
 
-    section Sviluppo Backend
-    Struttura database          :c1, after a2, 3w
-    API e autenticazione        :c2, after c1, 4w
-    Chat e notifiche real-time  :c3, after c2, 3w
+    section Backend
+    Progettazione database      :c1, after a2, 3w
+    Sviluppo API REST           :c2, after c1, 4w
+    Autenticazione Firebase     :c3, after c2, 2w
+    Chat e notifiche            :c4, after c3, 3w
 
-    section Sviluppo Frontend
-    Interfaccia base            :d1, after b1, 4w
-    Integrazione API            :d2, after c2, 4w
+    section Frontend (Flutter)
+    Struttura app               :d1, after b1, 3w
+    UI schermate principali     :d2, after d1, 4w
+    Integrazione API            :d3, after c2, 4w
 
     section Testing
-    Test funzionali             :e1, after d2, 2w
+    Test funzionali             :e1, after d3, 2w
     Bug fixing                  :e2, after e1, 2w
 
     section Deploy e Lancio
-    Deploy su server            :f1, after e2, 1w
+    Deploy backend              :f1, after e2, 1w
     Pubblicazione app           :f2, after f1, 1w
 ```
