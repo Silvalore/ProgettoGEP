@@ -56,7 +56,7 @@ Organizza, gioca, connettiti
 Funzionali
 - Registrazione e login utente - Creazione di tornei di basket - Iscrizione ai tornei - Gestione profilo personale (dati giocatore) - Chat tra utenti - Visualizzazione tornei e partecipanti
   
-  | Attore        | Requisito / Azione                       | Beneficio                                                  |
+| Attore        | Requisito / Azione                       | Beneficio                                                  |
 | ------------- | ---------------------------------------- | ---------------------------------------------------------- |
 | Utente        | Registrarsi e creare un profilo sportivo | Mostrare le proprie informazioni e partecipare agli eventi |
 | Giocatore     | Cercare eventi e tornei                  | Trovare facilmente partite a cui partecipare               |
@@ -68,6 +68,7 @@ Funzionali
 | Organizzatore | Gestire partecipanti e squadre           | Organizzare eventi in modo semplice ed efficace            |
 | Utente        | Ricevere notifiche sugli eventi          | Restare aggiornato su inviti e modifiche                   |
 | Giocatore     | Caricare certificazioni e dati sportivi  | Aumentare affidabilità e credibilità                       |
+
 
 
 Non funzionali
