@@ -11,7 +11,26 @@ Risolve il problema del reclutamento di giocatori per eventi, sia amatoriali che
 Giocatori under e senior, con la possibilità di appartenere o meno a una squadra affiliata alla FIBA 
 
 # Competitors
-CourtMapping,Revocruit,Basketball Finders,RecruitMe Sports
+- CourtMapping
+- Revocruit
+- Basketball Finders
+- RecruitMe Sports
+
+# Tabella comparativa   
+| Caratteristica              | HoopLink                        | CourtMapping          | Revocruit           | Basketball Finders  | RecruitMe Sports      |
+| --------------------------- | ------------------------------- | --------------------- | ------------------- | ------------------- | --------------------- |
+| 🎯 Focus principale         | Eventi + community + recruiting | Networking e scouting | Recruiting sportivo | Placement giocatori | Recruiting accademico |
+| 🏀 Specifico per basket     | ✅ Sì                            | ✅ Sì                  | ❌ Multi-sport       | ✅ Sì                | ❌ Multi-sport         |
+| 📅 Creazione eventi         | ✅ Sì                            | ⚠️ Limitato           | ❌ No                | ❌ No                | ❌ No                  |
+| 👥 Iscrizione a partite     | ✅ Sì                            | ❌ No                  | ❌ No                | ❌ No                | ❌ No                  |
+| 👤 Profilo giocatore        | ✅ Completo                      | ✅ Completo            | ✅ Completo          | ⚠️ Base             | ✅ Completo            |
+| 💬 Chat tra utenti          | ✅ Sì                            | ⚠️ Limitata           | ❌ No                | ❌ No                | ❌ No                  |
+| 🌍 Community locale         | ✅ Sì                            | ❌ No                  | ❌ No                | ❌ No                | ❌ No                  |
+| 🎥 Video / highlight        | ⚠️ Possibile                    | ✅ Sì                  | ✅ Sì                | ✅ Sì                | ✅ Sì                  |
+| 🧑‍🏫 Connessione con coach | ⚠️ Sì                           | ✅ Sì                  | ✅ Sì                | ✅ Sì                | ✅ Sì                  |
+| 💸 Prezzo medio             | 🟢 Basso (3–5€/mese)            | 🔴 Alto (~40$/mese)   | 🔴 Medio/Alto       | 🔴 Alto             | 🔴 Alto               |
+| 🚀 Facilità d’uso           | 🟢 Alta                         | ⚠️ Media              | ⚠️ Media            | ⚠️ Media            | ⚠️ Media              |
+
 
 # Tagline
 Organizza, gioca, connettiti
@@ -31,8 +50,6 @@ Organizza, gioca, connettiti
 
 - Hosting: Render / Firebase Hosting.
 
-# Tabella di benchmarking
-<img width="1722" height="540" alt="tabella benchmarking" src="https://github.com/user-attachments/assets/9b6be73a-facd-4131-8f1e-c0bb4e564fe1" />
 
 # Requisiti
 
